@@ -1,5 +1,8 @@
 # Google Play Store Data Analysis using PySpark
 
+
+![114-1143971_google-play-logo-google-play-logo-transparent-background](https://github.com/AbdallahAmr3398/Googlepyspark/assets/141870604/e49f1d15-5c1c-4ee5-a9c8-9a79866d54e4)
+
 This project utilizes PySpark to analyze a dataset obtained from Kaggle containing information about various apps on the Google Play Store.
 
 ## Overview
